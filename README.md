@@ -6,6 +6,8 @@ This repository contains three simple C programs for beginners:
 1. Temperature Converter (Celsius to Fahrenheit)
 2. Gross Salary Calculator
 3. Triangle Angle Finder
+4. Grade Calculator
+5. Simple Calculator
 
 ⚠️ **Note:** Each program has its own `main()` function, so they must be saved and compiled **separately** in different `.c` files.
 
@@ -45,3 +47,4 @@ This program finds the third angle of a triangle when the first two angles are g
 
 Formula used:
 Third Angle = 180 − (First Angle + Second Angle)
+
